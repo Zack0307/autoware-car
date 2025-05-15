@@ -1,0 +1,75 @@
+[0.000000] (-) TimerEvent: {}
+[0.001172] (turtlesim_test) JobQueued: {'identifier': 'turtlesim_test', 'dependencies': OrderedDict()}
+[0.002264] (turtlesim_test) JobStarted: {'identifier': 'turtlesim_test'}
+[0.099096] (-) TimerEvent: {}
+[0.200139] (-) TimerEvent: {}
+[0.301012] (-) TimerEvent: {}
+[0.401728] (-) TimerEvent: {}
+[0.502425] (-) TimerEvent: {}
+[0.603276] (-) TimerEvent: {}
+[0.706637] (-) TimerEvent: {}
+[0.807312] (-) TimerEvent: {}
+[0.907989] (-) TimerEvent: {}
+[1.009559] (-) TimerEvent: {}
+[1.110379] (-) TimerEvent: {}
+[1.211065] (-) TimerEvent: {}
+[1.312376] (-) TimerEvent: {}
+[1.413259] (-) TimerEvent: {}
+[1.514523] (-) TimerEvent: {}
+[1.615893] (-) TimerEvent: {}
+[1.716696] (-) TimerEvent: {}
+[1.818216] (-) TimerEvent: {}
+[1.918958] (-) TimerEvent: {}
+[2.020273] (-) TimerEvent: {}
+[2.120930] (-) TimerEvent: {}
+[2.225947] (-) TimerEvent: {}
+[2.327070] (-) TimerEvent: {}
+[2.427782] (-) TimerEvent: {}
+[2.528804] (-) TimerEvent: {}
+[2.629643] (-) TimerEvent: {}
+[2.730907] (-) TimerEvent: {}
+[2.831805] (-) TimerEvent: {}
+[2.932510] (-) TimerEvent: {}
+[3.033324] (-) TimerEvent: {}
+[3.134208] (-) TimerEvent: {}
+[3.235026] (-) TimerEvent: {}
+[3.268612] (turtlesim_test) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'develop', '--editable', '--build-directory', '/home/dllab/ros2_ws/build/turtlesim_test/build', '--no-deps', 'install_data'], 'cwd': '/home/dllab/ros2_ws/build/turtlesim_test', 'env': {'OPENBLAS_CORETYPE': 'ARMV8', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'UNITY_DEFAULT_PROFILE': 'unity', 'GTK_CSD': '0', 'USER': 'dllab', 'UNITY_HAS_3D_SUPPORT': 'true', 'TEXTDOMAIN': 'im-config', 'COMPIZ_CONFIG_PROFILE': 'ubuntu', 'XDG_SESSION_TYPE': 'x11', 'GNOME_SESSION_XDG_SESSION_PATH': '', 'LD_LIBRARY_PATH': '/usr/local/cuda-10.2/targets/aarch64-linux/lib:/opt/ros/dashing/opt/yaml_cpp_vendor/lib:/opt/ros/dashing/opt/rviz_ogre_vendor/lib:/opt/ros/dashing/lib:/usr/local/cuda-10.2/lib64:', 'SHLVL': '2', 'CONDA_SHLVL': '0', 'OLDPWD': '/home/dllab', 'QT4_IM_MODULE': 'fcitx', 'HOME': '/home/dllab', 'DESKTOP_SESSION': 'unity', 'JETSON_L4T': '32.7.6', 'JETSON_MODEL': 'lanai-3636', 'GTK_MODULES': 'gail:atk-bridge:unity-gtk-module', 'ROS_PYTHON_VERSION': '3', 'MANAGERPID': '6338', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', '_CE_M': '', 'MANDATORY_PATH': '/usr/share/gconf/unity.mandatory.path', 'COLCON_PREFIX_PATH': '/home/dllab/ros2_ws/install', 'IM_CONFIG_PHASE': '2', 'ROS_DISTRO': 'dashing', 'LOGNAME': 'dllab', 'GTK_IM_MODULE': 'fcitx', 'JOURNAL_STREAM': '8:45213', 'JETSON_SERIAL_NUMBER': '1420122018814', 'JETSON_MODULE': 'NVIDIA Jetson TX2 NX', '_': '/usr/bin/colcon', 'DEFAULTS_PATH': '/usr/share/gconf/unity.default.path', 'JETSON_CODENAME': 'Lanai', 'ROS_VERSION': '2', 'USERNAME': 'dllab', 'TERM': 'xterm-256color', '_CE_CONDA': '', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'WINDOWPATH': '2', 'PATH': '/home/dllab/miniforge3/condabin:/opt/ros/dashing/bin:/usr/local/cuda-10.2/bin:/home/dllab/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'INVOCATION_ID': 'bc2e95d135284faf986a8c4e40f1e408', 'SESSION_MANAGER': 'local/ubuntu:@/tmp/.ICE-unix/6689,unix/ubuntu:/tmp/.ICE-unix/6689', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/982356ea_6039_4b99_916b_a3503ba05fca', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'COMPIZ_BIN_PATH': '/usr/bin/', 'LANG': 'zh_TW.UTF-8', 'XDG_CURRENT_DESKTOP': 'Unity:Unity7:ubuntu', 'LD_PRELOAD': 'libgtk3-nocsd.so.0', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'JETSON_SOC': 'tegra186', 'XDG_SESSION_DESKTOP': 'unity', 'XMODIFIERS': '@im=fcitx', 'GNOME_TERMINAL_SERVICE': ':1.138', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'AMENT_PREFIX_PATH': '/home/dllab/ros2_ws/install/turtlesim_test:/opt/ros/dashing', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'CONDA_PYTHON_EXE': '/home/dllab/miniforge3/bin/python', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'unity', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'JETSON_BOARDIDS': 'p3636-0001-A0', 'TEXTDOMAINDIR': '/usr/share/locale/', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'fcitx', 'JETSON_CUDA_ARCH_BIN': '6.2', 'PWD': '/home/dllab/ros2_ws/build/turtlesim_test', 'CUDA_HOME': '/usr/local/cuda', 'CLUTTER_IM_MODULE': 'xim', 'CONDA_EXE': '/home/dllab/miniforge3/bin/conda', 'XDG_DATA_DIRS': '/usr/share/unity:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-unity:/etc/xdg', 'PYTHONPATH': '/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:/home/dllab/ros2_ws/build/turtlesim_test:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:/opt/ros/dashing/lib/python3.6/site-packages', 'COLCON': '1', 'JETSON_JETPACK': '4.6.6', 'VTE_VERSION': '5202', 'JETSON_P_NUMBER': 'p3636-0001'}, 'shell': False}
+[3.335237] (-) TimerEvent: {}
+[3.436122] (-) TimerEvent: {}
+[3.537358] (-) TimerEvent: {}
+[3.638154] (-) TimerEvent: {}
+[3.738848] (-) TimerEvent: {}
+[3.839567] (-) TimerEvent: {}
+[3.940259] (-) TimerEvent: {}
+[4.041561] (-) TimerEvent: {}
+[4.142535] (-) TimerEvent: {}
+[4.243923] (-) TimerEvent: {}
+[4.344741] (-) TimerEvent: {}
+[4.429478] (turtlesim_test) StdoutLine: {'line': b'running develop\n'}
+[4.444886] (-) TimerEvent: {}
+[4.549087] (-) TimerEvent: {}
+[4.649838] (-) TimerEvent: {}
+[4.750525] (-) TimerEvent: {}
+[4.851207] (-) TimerEvent: {}
+[4.951871] (-) TimerEvent: {}
+[5.028561] (turtlesim_test) StdoutLine: {'line': b'running egg_info\n'}
+[5.029321] (turtlesim_test) StdoutLine: {'line': b'writing turtlesim_test.egg-info/PKG-INFO\n'}
+[5.030525] (turtlesim_test) StdoutLine: {'line': b'writing dependency_links to turtlesim_test.egg-info/dependency_links.txt\n'}
+[5.031114] (turtlesim_test) StdoutLine: {'line': b'writing entry points to turtlesim_test.egg-info/entry_points.txt\n'}
+[5.031578] (turtlesim_test) StdoutLine: {'line': b'writing requirements to turtlesim_test.egg-info/requires.txt\n'}
+[5.032035] (turtlesim_test) StdoutLine: {'line': b'writing top-level names to turtlesim_test.egg-info/top_level.txt\n'}
+[5.052047] (-) TimerEvent: {}
+[5.153074] (-) TimerEvent: {}
+[5.206055] (turtlesim_test) StdoutLine: {'line': b"reading manifest file 'turtlesim_test.egg-info/SOURCES.txt'\n"}
+[5.211028] (turtlesim_test) StdoutLine: {'line': b"writing manifest file 'turtlesim_test.egg-info/SOURCES.txt'\n"}
+[5.217489] (turtlesim_test) StdoutLine: {'line': b'running build_ext\n'}
+[5.221482] (turtlesim_test) StdoutLine: {'line': b'Creating /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim-test.egg-link (link to .)\n'}
+[5.225025] (turtlesim_test) StdoutLine: {'line': b'Installing ps4_turtle script to /home/dllab/ros2_ws/install/turtlesim_test/lib/turtlesim_test\n'}
+[5.227723] (turtlesim_test) StdoutLine: {'line': b'\n'}
+[5.228413] (turtlesim_test) StdoutLine: {'line': b'Installed /home/dllab/ros2_ws/build/turtlesim_test\n'}
+[5.228991] (turtlesim_test) StdoutLine: {'line': b'running install_data\n'}
+[5.253270] (-) TimerEvent: {}
+[5.352925] (turtlesim_test) CommandEnded: {'returncode': 0}
+[5.361164] (-) TimerEvent: {}
+[5.422945] (turtlesim_test) JobEnded: {'identifier': 'turtlesim_test', 'rc': 0}
+[5.426086] (-) EventReactorShutdown: {}

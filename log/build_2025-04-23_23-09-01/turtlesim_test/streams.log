@@ -1,0 +1,25 @@
+[3.066s] Invoking command in '/home/dllab/ros2_ws/src/turtlesim_test': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed
+[4.263s] running egg_info
+[4.268s] writing ../../build/turtlesim_test/turtlesim_test.egg-info/PKG-INFO
+[4.272s] writing dependency_links to ../../build/turtlesim_test/turtlesim_test.egg-info/dependency_links.txt
+[4.272s] writing entry points to ../../build/turtlesim_test/turtlesim_test.egg-info/entry_points.txt
+[4.274s] writing requirements to ../../build/turtlesim_test/turtlesim_test.egg-info/requires.txt
+[4.275s] writing top-level names to ../../build/turtlesim_test/turtlesim_test.egg-info/top_level.txt
+[4.475s] reading manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[4.483s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[4.486s] running build
+[4.488s] running build_py
+[4.490s] copying turtlesim_test/joy_to_twist.py -> /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test
+[4.491s] running install
+[4.494s] running install_lib
+[4.500s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/joy_to_twist.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test
+[4.502s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/joy_to_twist.py to joy_to_twist.cpython-36.pyc
+[4.505s] running install_data
+[4.510s] copying package.xml -> /home/dllab/ros2_ws/install/turtlesim_test/share/turtlesim_test
+[4.511s] running install_egg_info
+[4.518s] removing '/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test-0.0.0-py3.6.egg-info' (and everything under it)
+[4.519s] Copying ../../build/turtlesim_test/turtlesim_test.egg-info to /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test-0.0.0-py3.6.egg-info
+[4.522s] running install_scripts
+[4.602s] Installing ps4_turtle script to /home/dllab/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+[4.603s] writing list of installed files to '/home/dllab/ros2_ws/build/turtlesim_test/install.log'
+[4.740s] Invoked command in '/home/dllab/ros2_ws/src/turtlesim_test' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed

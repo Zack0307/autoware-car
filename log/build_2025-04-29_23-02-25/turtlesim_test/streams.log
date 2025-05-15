@@ -1,0 +1,30 @@
+[3.209s] Invoking command in '/home/dllab/ros2_ws/build/turtlesim_test': CONDA_PROMPT_MODIFIER=(jetson_inference) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/dllab/ros2_ws/build/turtlesim_test/build
+[4.322s] running develop
+[4.907s] Removing /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim-test.egg-link (link to .)
+[5.021s] Invoked command in '/home/dllab/ros2_ws/build/turtlesim_test' returned '0': CONDA_PROMPT_MODIFIER=(jetson_inference) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/dllab/ros2_ws/build/turtlesim_test/build
+[5.030s] Invoking command in '/home/dllab/ros2_ws/src/turtlesim_test': CONDA_PROMPT_MODIFIER=(jetson_inference) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed
+[6.047s] running egg_info
+[6.050s] writing ../../build/turtlesim_test/turtlesim_test.egg-info/PKG-INFO
+[6.050s] writing dependency_links to ../../build/turtlesim_test/turtlesim_test.egg-info/dependency_links.txt
+[6.052s] writing entry points to ../../build/turtlesim_test/turtlesim_test.egg-info/entry_points.txt
+[6.053s] writing requirements to ../../build/turtlesim_test/turtlesim_test.egg-info/requires.txt
+[6.053s] writing top-level names to ../../build/turtlesim_test/turtlesim_test.egg-info/top_level.txt
+[6.232s] reading manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[6.237s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[6.237s] running build
+[6.238s] running build_py
+[6.239s] running install
+[6.240s] running install_lib
+[6.243s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/joy_to_twist.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test
+[6.243s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/Rosmaster_Lib.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test
+[6.244s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/__init__.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test
+[6.245s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/joy_to_twist.py to joy_to_twist.cpython-36.pyc
+[6.249s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/Rosmaster_Lib.py to Rosmaster_Lib.cpython-36.pyc
+[6.277s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/__init__.py to __init__.cpython-36.pyc
+[6.277s] running install_data
+[6.280s] running install_egg_info
+[6.286s] Copying ../../build/turtlesim_test/turtlesim_test.egg-info to /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test-0.0.0-py3.6.egg-info
+[6.290s] running install_scripts
+[6.371s] Installing ps4_turtle script to /home/dllab/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+[6.372s] writing list of installed files to '/home/dllab/ros2_ws/build/turtlesim_test/install.log'
+[6.487s] Invoked command in '/home/dllab/ros2_ws/src/turtlesim_test' returned '0': CONDA_PROMPT_MODIFIER=(jetson_inference) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed

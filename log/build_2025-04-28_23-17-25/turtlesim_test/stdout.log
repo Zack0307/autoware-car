@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing turtlesim_test.egg-info/PKG-INFO
+writing dependency_links to turtlesim_test.egg-info/dependency_links.txt
+writing entry points to turtlesim_test.egg-info/entry_points.txt
+writing requirements to turtlesim_test.egg-info/requires.txt
+writing top-level names to turtlesim_test.egg-info/top_level.txt
+reading manifest file 'turtlesim_test.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim-test.egg-link (link to .)
+Installing ps4_turtle script to /home/dllab/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+
+Installed /home/dllab/ros2_ws/build/turtlesim_test
+running install_data

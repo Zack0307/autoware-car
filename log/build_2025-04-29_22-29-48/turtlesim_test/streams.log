@@ -1,0 +1,21 @@
+[3.162s] Invoking command in '/home/dllab/ros2_ws/src/turtlesim_test': CONDA_PROMPT_MODIFIER=(jupyter) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed
+[4.208s] running egg_info
+[4.211s] writing ../../build/turtlesim_test/turtlesim_test.egg-info/PKG-INFO
+[4.211s] writing dependency_links to ../../build/turtlesim_test/turtlesim_test.egg-info/dependency_links.txt
+[4.212s] writing entry points to ../../build/turtlesim_test/turtlesim_test.egg-info/entry_points.txt
+[4.213s] writing requirements to ../../build/turtlesim_test/turtlesim_test.egg-info/requires.txt
+[4.213s] writing top-level names to ../../build/turtlesim_test/turtlesim_test.egg-info/top_level.txt
+[4.385s] reading manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[4.390s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[4.390s] running build
+[4.391s] running build_py
+[4.392s] running install
+[4.393s] running install_lib
+[4.397s] running install_data
+[4.399s] running install_egg_info
+[4.406s] removing '/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test-0.0.0-py3.6.egg-info' (and everything under it)
+[4.410s] Copying ../../build/turtlesim_test/turtlesim_test.egg-info to /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test-0.0.0-py3.6.egg-info
+[4.414s] running install_scripts
+[4.496s] Installing ps4_turtle script to /home/dllab/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+[4.502s] writing list of installed files to '/home/dllab/ros2_ws/build/turtlesim_test/install.log'
+[4.605s] Invoked command in '/home/dllab/ros2_ws/src/turtlesim_test' returned '0': CONDA_PROMPT_MODIFIER=(jupyter) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed

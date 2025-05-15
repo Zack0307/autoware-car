@@ -1,0 +1,17 @@
+[3.396s] Invoking command in '/home/dllab/ros2_ws/build/turtlesim_test': PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dllab/ros2_ws/build/turtlesim_test/build --no-deps install_data
+[4.617s] running develop
+[5.202s] running egg_info
+[5.202s] writing turtlesim_test.egg-info/PKG-INFO
+[5.203s] writing dependency_links to turtlesim_test.egg-info/dependency_links.txt
+[5.203s] writing entry points to turtlesim_test.egg-info/entry_points.txt
+[5.204s] writing requirements to turtlesim_test.egg-info/requires.txt
+[5.204s] writing top-level names to turtlesim_test.egg-info/top_level.txt
+[5.380s] reading manifest file 'turtlesim_test.egg-info/SOURCES.txt'
+[5.384s] writing manifest file 'turtlesim_test.egg-info/SOURCES.txt'
+[5.394s] running build_ext
+[5.397s] Creating /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim-test.egg-link (link to .)
+[5.401s] Installing ps4_turtle script to /home/dllab/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+[5.402s] 
+[5.402s] Installed /home/dllab/ros2_ws/build/turtlesim_test
+[5.403s] running install_data
+[5.544s] Invoked command in '/home/dllab/ros2_ws/build/turtlesim_test' returned '0': PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dllab/ros2_ws/build/turtlesim_test/build --no-deps install_data

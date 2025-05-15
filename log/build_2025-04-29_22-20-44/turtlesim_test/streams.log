@@ -1,0 +1,45 @@
+[3.277s] Invoking command in '/home/dllab/ros2_ws/src/turtlesim_test': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed
+[4.438s] running egg_info
+[4.442s] creating ../../build/turtlesim_test/turtlesim_test.egg-info
+[4.444s] writing ../../build/turtlesim_test/turtlesim_test.egg-info/PKG-INFO
+[4.447s] writing dependency_links to ../../build/turtlesim_test/turtlesim_test.egg-info/dependency_links.txt
+[4.449s] writing entry points to ../../build/turtlesim_test/turtlesim_test.egg-info/entry_points.txt
+[4.455s] writing requirements to ../../build/turtlesim_test/turtlesim_test.egg-info/requires.txt
+[4.456s] writing top-level names to ../../build/turtlesim_test/turtlesim_test.egg-info/top_level.txt
+[4.474s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[4.637s] reading manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[4.641s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[4.642s] running build
+[4.643s] running build_py
+[4.644s] creating /home/dllab/ros2_ws/build/turtlesim_test/build
+[4.644s] creating /home/dllab/ros2_ws/build/turtlesim_test/build/lib
+[4.645s] creating /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test
+[4.645s] copying turtlesim_test/joy_to_twist.py -> /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test
+[4.646s] copying turtlesim_test/__init__.py -> /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test
+[4.646s] creating /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/Rosmaster_Lib
+[4.647s] copying turtlesim_test/Rosmaster_Lib/Rosmaster_Lib.py -> /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/Rosmaster_Lib
+[4.649s] copying turtlesim_test/Rosmaster_Lib/__init__.py -> /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/Rosmaster_Lib
+[4.650s] running install
+[4.652s] running install_lib
+[4.656s] creating /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test
+[4.657s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/joy_to_twist.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test
+[4.658s] creating /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/Rosmaster_Lib
+[4.659s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/Rosmaster_Lib/Rosmaster_Lib.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/Rosmaster_Lib
+[4.659s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/Rosmaster_Lib/__init__.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/Rosmaster_Lib
+[4.660s] copying /home/dllab/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/__init__.py -> /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test
+[4.661s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/joy_to_twist.py to joy_to_twist.cpython-36.pyc
+[4.665s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/Rosmaster_Lib/Rosmaster_Lib.py to Rosmaster_Lib.cpython-36.pyc
+[4.692s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/Rosmaster_Lib/__init__.py to __init__.cpython-36.pyc
+[4.693s] byte-compiling /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test/__init__.py to __init__.cpython-36.pyc
+[4.693s] running install_data
+[4.695s] creating /home/dllab/ros2_ws/install/turtlesim_test/share/ament_index
+[4.696s] creating /home/dllab/ros2_ws/install/turtlesim_test/share/ament_index/resource_index
+[4.697s] creating /home/dllab/ros2_ws/install/turtlesim_test/share/ament_index/resource_index/packages
+[4.697s] copying resource/turtlesim_test -> /home/dllab/ros2_ws/install/turtlesim_test/share/ament_index/resource_index/packages
+[4.697s] copying package.xml -> /home/dllab/ros2_ws/install/turtlesim_test/share/turtlesim_test
+[4.698s] running install_egg_info
+[4.702s] Copying ../../build/turtlesim_test/turtlesim_test.egg-info to /home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages/turtlesim_test-0.0.0-py3.6.egg-info
+[4.706s] running install_scripts
+[4.790s] Installing ps4_turtle script to /home/dllab/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+[4.791s] writing list of installed files to '/home/dllab/ros2_ws/build/turtlesim_test/install.log'
+[4.902s] Invoked command in '/home/dllab/ros2_ws/src/turtlesim_test' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dllab/ros2_ws/build/turtlesim_test/prefix_override:/home/dllab/ros2_ws/install/turtlesim_test/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/dllab/ros2_ws/build/turtlesim_test/build install --record /home/dllab/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed
