@@ -143,7 +143,7 @@ class PS4Turtle(Node):
         if abs(joy_data) < 0.1:
             speed = 90.0
         else:
-            speed  =  45 * joy_data + 90
+            speed  =  15 * (-joy_data) + 90
         return speed 
 
 def main(args=None):
