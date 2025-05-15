@@ -1,1 +1,0 @@
-/home/dllab/ros2_ws/src/turtlesim_test/setup.py

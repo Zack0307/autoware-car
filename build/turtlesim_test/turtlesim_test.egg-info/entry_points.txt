@@ -1,4 +1,0 @@
-[console_scripts]
-ps4 = turtlesim_test.ps4:main
-ps4_turtle = turtlesim_test.joy_to_twist:main
-
