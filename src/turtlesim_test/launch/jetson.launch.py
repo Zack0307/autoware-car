@@ -21,6 +21,7 @@ def generate_launch_description():
     urdf_path = os.path.join(get_package_share_directory('robot_car'),'urdf','my_robot.urdf.xacro')
     robot_description = ParameterValue(Command(['xacro ', urdf_path]), value_type=str)#解析xacro檔轉成urdf檔
     rviz_config_path = os.path.join(get_package_share_directory('robot_car'),'rviz','selfcar.rviz')
+    rplidar_ros_path = os.path.join(get_package_share_directory('rplidar_ros'),'launch','rplidar_c1_launch.py')
 
     # gui_arg = DeclareLaunchArgument(name='gui', default_value='false', choices=['true', 'false'],
     #                                 description='Flag to enable joint_state_publisher_gui')
