@@ -7,6 +7,8 @@
   <maintainer email="dllab@todo.todo">dllab</maintainer>
   <license>TODO: License declaration</license>
   
+
+  <depend>rplidar_ros<depend>
   <depend>sensor_msgs</depend>
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
