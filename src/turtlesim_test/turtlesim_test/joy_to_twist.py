@@ -76,18 +76,6 @@ class PS4Turtle(Node):
         mag.magnetic_field.y = my*1.0
         mag.magnetic_field.z = mz*1.0
         
-        # 将小车当前的线速度和角速度发布出去
-        # Publish the current linear vel and angular vel of the car
-        # twist.linear.x = vx *1.0
-        # twist.linear.y = vy *1.0
-        #axes[1]: 左搖桿上下 → 前後
-        #axes[2]: 右搖桿左右 → 轉向
-        # twist.linear.x = joy.axes[0] *1.0
-        # # twist.linear.y = joy.axes[1] *1.0
-        # twist.angular.z = joy.axes[1]*1.0    
-        # self.velPublisher.publish(twist)
-        # self.get_logger().info(f'cmd_vel ← lin: {twist.linear.x:.2f}, ang: {twist.angular.z:.2f}')
-        
         self.imuPublisher.publish(imu)
         self.magPublisher.publish(mag)
         self.volPublisher.publish(battery)
